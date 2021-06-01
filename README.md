@@ -23,6 +23,7 @@ This is one of my first big projects and its still in the very beta phase so the
 
 #### Future requests
 - [nHentai](https://nhentai.net/)
+- [e621.net](https://e621.ent/)
 
 ### Disclaimer
 I am not in any way affiliated or working with the team from Multporn, nHentai or other platforms. This is a unofficial project.
