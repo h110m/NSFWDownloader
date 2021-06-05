@@ -20,9 +20,9 @@ This is one of my first big projects and its still in the very beta phase so the
 
 #### Currently supporting
 - [Multporn](https://multporn.net)
+- [nHentai](https://nhentai.net/)
 
 #### Future requests
-- [nHentai](https://nhentai.net/)
 - [e621.net](https://e621.net/)
 
 ### Disclaimer
