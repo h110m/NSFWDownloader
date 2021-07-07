@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **SiteURL**
-A clear and concise description of what the bug is.
+URL of the site you want to be added.
 
 **Why should it be added**
 A short reason why this site should be added
