@@ -1,3 +1,5 @@
+> This Repo was archived because of a upcoming new version with Multi-Platform and CLI Support
+
 # NSFWDownloader
 A app for downloading your favourite NSFW content featuring a library, imageslider, search and a [browser extension](https://chrome.google.com/webstore/detail/nsfwdownloader/djbhnmoiklcclcibapihpnlhghnnknoi).
 
